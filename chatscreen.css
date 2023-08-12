@@ -1,0 +1,49 @@
+.background{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+    width: 100vw;
+    height: 100vh;
+}
+
+*{
+    color: #ffffff;
+    font-family: 'Bebas Neue', sans-serif;
+font-family: 'Cabin Sketch', cursive;
+font-family: 'Roboto', sans-serif;
+}
+
+h4{
+    padding: 1rem;
+    text-align: center;
+    background-color: #323f4b;
+}
+
+.bubbles{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    align-content: space-between;
+    
+}
+.conver{
+    padding: 0rem 2rem;
+    width: auto;
+}
+
+.conver p{
+    text-align: right;
+    border-radius: 8px 8px 0px 8px;
+    background-color: #47a3f3;
+padding: 1rem;
+}
+
+.other{
+    padding: 0rem 2rem;
+    width: auto;
+}
+.other p{
+    text-align: left;
+    border-radius: 8px 8px 8px 0px;
+    background-color: #52606d;
+    
+padding: 1rem;
+}

@@ -1,0 +1,21 @@
+.back{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png);
+    object-fit: contain;
+    width: 100vw;
+    height: 100vh;
+}
+.btn-primary{
+    background-color: #323f4b !important;
+    border: none !important;
+}
+
+.txt{
+    color: #323f4b !important;
+}
+.para{
+    color: #7b8794 !important;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+}

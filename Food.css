@@ -1,0 +1,28 @@
+.background{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+*{    
+    font-family: 'Bree Serif', serif;
+    color: #323f4b;
+}
+
+p{
+font-family: 'Roboto', sans-serif;
+color: #323f4b;
+}
+
+
+.background-orange{
+    background-color: #f6c56e;
+}
+
+#colgr{
+    color: #323f4b;
+    
+}
+
+

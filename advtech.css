@@ -1,0 +1,33 @@
+.content{
+object-fit: contain;
+    height: 100vh;
+}
+
+.area{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png)
+
+}
+
+
+.btn-primary{
+    background-color: #5752ab !important;
+    border: none !important;
+    color: #ffffff !important;
+}
+
+.btn-secondary{
+    color: #171f46 !important;
+    background-color: #ffffff !important;    
+    border: 1px solid #d7dfe9 !important;
+}
+
+.heading{
+    font-family: 'Bree Serif', serif;
+    color: #5752ab !important;
+    font-size: 26px !important;
+
+}
+
+.para{
+    font-family: 'Roboto', sans-serif;
+}

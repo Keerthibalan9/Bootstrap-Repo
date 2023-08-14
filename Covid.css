@@ -1,0 +1,45 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-red{
+    background-color: #fb4e71;
+    color: #ffffff;
+}
+
+.bg-skyblue{
+    background-color: #0967d219;
+}
+
+.firstFold{
+    min-height: 160px;
+}
+
+.head{
+    color: #323f4b;
+}
+
+.para{
+    color: 
+    #707070;
+}
+
+.bg-green{
+    background-color: #3ebd93 !important;
+}
+
+.bg-pink{
+    background-color: #e668a7 !important;
+}
+
+.bg-violet{
+    background-color: #a368fc !important;
+}
+
+.txt-white{
+    color: white !important;
+}
+
+.bg-pale{
+    background-color: #e12d3919 !important;
+}

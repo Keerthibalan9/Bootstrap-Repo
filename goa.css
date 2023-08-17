@@ -1,0 +1,15 @@
+.roun{
+    border-radius: 8px !important;
+}
+
+h3{
+    color: #323f4b !important;
+}
+
+p{
+    color: #9aa5b1 !important;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+}

@@ -1,0 +1,19 @@
+.color1{
+  color: #5a7184 !important;
+}
+.color1mail{
+  color: #5a7184 !important;
+  text-decoration: none !important;
+}
+.color2{
+  background-color: hsl(210deg 25.58% 16.86%) !important;
+}
+.back-ground{
+  background-color: #19232d !important;
+}
+.color4{
+  background-color: #202b36 !important;
+}
+hr{
+  background-color: red !important;
+}
